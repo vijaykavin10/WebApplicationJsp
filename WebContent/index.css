@@ -1,0 +1,54 @@
+.header-class {
+  height : 60px;
+  background-color: #f3f3f4;
+}
+
+.nav-class {
+  clear: both;
+}
+
+.select-options {
+  height: 60px;
+}
+
+.navigate-option {
+  margin-top: 15px;
+}
+
+.padding-items {
+  padding: 10px;
+}
+
+.nav-side-bar {
+  width: 205px;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+
+.nav-side-bar ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.nav-side-bar ul li {
+  height: 40px;
+  line-height: 40px;
+}
+
+.footer-class {
+  clear: both;
+}
+
+.container {
+  text-align: center;
+}
+
+.naviation-left {
+  background-color: #293846;
+  height: 700px;
+}
+.naviation-left a {
+    color: #FFF;
+}
